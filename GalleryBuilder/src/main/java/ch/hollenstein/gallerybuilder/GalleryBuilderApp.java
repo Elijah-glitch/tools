@@ -55,6 +55,7 @@ public class GalleryBuilderApp {
 
 		String filename = props.getProperty("filename.html");
 		String title = props.getProperty("title");
+		String author = props.getProperty("author");
 
 		String galleryTemplate = readTemplate("galleryTemplate.html");
 		String galleryEntryTemplateLarge = readTemplate("galleryEntryTemplateLarge.html");
@@ -63,8 +64,8 @@ public class GalleryBuilderApp {
 
 		long t0 = System.currentTimeMillis();
 
+		StringBuilder sbEntries = new StringBuilder();
 		try (DirectoryStream<Path> ds = Files.newDirectoryStream(pathImagesOriginal)) {
-			StringBuilder sbEntries = new StringBuilder();
 
 			for (Path image : ds) {
 				String fileName = image.getFileName().toString();
@@ -107,9 +108,10 @@ public class GalleryBuilderApp {
 				sbEntries.append("\n");
 			}
 
-			galleryTemplate = galleryTemplate.replace("{{title}}", title);
-			galleryTemplate = galleryTemplate.replace("{{gallery_entries}}", sbEntries.toString());
 		}
+		galleryTemplate = galleryTemplate.replace("{{title}}", title);
+		galleryTemplate = galleryTemplate.replace("{{gallery_entries}}", sbEntries.toString());
+		galleryTemplate = galleryTemplate.replace("{{author}}", author);
 
 		System.out.println("Creating images took " + (System.currentTimeMillis() - t0) + "ms");
 
