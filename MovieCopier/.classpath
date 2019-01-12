@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="D:/SE/eclipse-workspace/tools/MovieCopier/lib/jpathwatch-0-92a/jpathwatch-0-92a.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/D:/Java/Projects/lib/jpathwatch-0-92a/doc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/SE/eclipse-workspace/tools/MovieCopier/lib/jcifs_1.3.14/jcifs-1.3.14.jar"/>
+	<classpathentry kind="lib" path="D:/SE/eclipse-workspace/tools/MovieCopier/lib/ganymed-ssh2-build210/ganymed-ssh2-build210.jar"/>
+	<classpathentry kind="lib" path="D:/SE/eclipse-workspace/tools/MovieCopier/lib/apache-log4j-1.2.16/log4j-1.2.16.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

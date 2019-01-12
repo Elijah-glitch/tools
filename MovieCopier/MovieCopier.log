@@ -1,0 +1,171 @@
+2010-09-13 22:44:36,812 INFO Thread-19 restartServer.TwonkyMediaServer - 
+
+2010-09-13 22:44:41,974 INFO Thread-21 restartServer.TwonkyMediaServer - ----- Restarting Twonkymediaserver -----
+2010-09-13 22:44:43,655 INFO Thread-21 restartServer.TwonkyMediaServer - invoke twonkymedia.sh stop
+2010-09-13 22:44:43,752 INFO Thread-21 restartServer.TwonkyMediaServer - Shutting down UPnP MediaServer services: twonkymedia.
+PID file /var/run/twonky.pid not found, stopping server anyway...
+
+2010-09-13 22:44:43,847 INFO Thread-21 restartServer.TwonkyMediaServer - 
+
+2010-09-13 22:44:44,020 INFO Thread-21 restartServer.TwonkyMediaServer - invoke twonkymedia.sh start
+2010-09-13 22:44:44,162 INFO Thread-21 restartServer.TwonkyMediaServer - TwonkyMedia cache have been cleaned.
+
+2010-09-13 22:44:44,295 ERROR Thread-21 restartServer.TwonkyMediaServer - readlink: /var/twonkymedia
+2010-09-13 22:44:44,299 ERROR Thread-21 restartServer.TwonkyMediaServer - : No such file or directory
+
+2010-09-13 22:44:44,304 INFO Thread-21 restartServer.TwonkyMediaServer - Starting UPnP MediaServer: (/mnt/HDA_ROOT/twonkymedia/twonkymedia) 
+2010-09-13 22:44:44,348 INFO Thread-21 restartServer.TwonkyMediaServer - 
+
+2010-09-13 22:44:46,418 INFO Thread-23 restartServer.TwonkyMediaServer - ----- Restarting Twonkymediaserver -----
+2010-09-13 22:44:48,105 INFO Thread-23 restartServer.TwonkyMediaServer - invoke twonkymedia.sh stop
+2010-09-13 22:44:48,267 INFO Thread-23 restartServer.TwonkyMediaServer - Shutting down UPnP MediaServer services: twonkymedia.
+
+2010-09-13 22:44:48,272 INFO Thread-23 restartServer.TwonkyMediaServer - PID file /var/run/twonky.pid not found, stopping server anyway...
+
+2010-09-13 22:44:48,358 INFO Thread-23 restartServer.TwonkyMediaServer - 
+
+2010-09-13 22:44:48,505 INFO Thread-23 restartServer.TwonkyMediaServer - invoke twonkymedia.sh start
+2010-09-13 22:44:48,642 INFO Thread-23 restartServer.TwonkyMediaServer - TwonkyMedia cache have been cleaned.
+
+2010-09-13 22:44:48,731 ERROR Thread-23 restartServer.TwonkyMediaServer - readlink: 
+2010-09-13 22:44:48,736 ERROR Thread-23 restartServer.TwonkyMediaServer - /var/twonkymedia: No such file or directory
+
+2010-09-13 22:44:48,748 INFO Thread-23 restartServer.TwonkyMediaServer - Starting UPnP MediaServer: (/mnt/HDA_ROOT/twonkymedia/twonkymedia) 
+2010-09-13 22:44:48,826 INFO Thread-23 restartServer.TwonkyMediaServer - 
+
+2010-09-13 22:44:53,154 INFO Thread-25 restartServer.TwonkyMediaServer - ----- Restarting Twonkymediaserver -----
+2010-09-13 22:44:54,819 INFO Thread-25 restartServer.TwonkyMediaServer - invoke twonkymedia.sh stop
+2010-09-13 22:44:54,945 INFO Thread-25 restartServer.TwonkyMediaServer - Shutting down UPnP MediaServer services: twonkymedia.
+PID file /var/run/twonky.pid not found, stopping server anyway...
+
+2010-09-13 22:44:55,064 INFO Thread-25 restartServer.TwonkyMediaServer - 
+
+2010-09-13 22:44:55,237 INFO Thread-25 restartServer.TwonkyMediaServer - invoke twonkymedia.sh start
+2010-09-13 22:44:55,382 INFO Thread-25 restartServer.TwonkyMediaServer - TwonkyMedia cache have been cleaned.
+
+2010-09-13 22:44:55,486 ERROR Thread-25 restartServer.TwonkyMediaServer - readlink: /var/twonkymedia: No such file or directory
+
+2010-09-13 22:44:55,511 INFO Thread-25 restartServer.TwonkyMediaServer - Starting UPnP MediaServer: (/mnt/HDA_ROOT/twonkymedia/twonkymedia) 
+2010-09-13 22:44:55,616 INFO Thread-25 restartServer.TwonkyMediaServer - 
+
+2010-09-13 22:45:03,876 INFO Thread-27 restartServer.TwonkyMediaServer - ----- Restarting Twonkymediaserver -----
+2010-09-13 22:45:05,590 INFO Thread-27 restartServer.TwonkyMediaServer - invoke twonkymedia.sh stop
+2010-09-13 22:45:05,721 INFO Thread-27 restartServer.TwonkyMediaServer - Shutting down UPnP MediaServer services: twonkymedia.
+
+2010-09-13 22:45:05,724 INFO Thread-27 restartServer.TwonkyMediaServer - PID file /var/run/twonky.pid not found, stopping server anyway...
+
+2010-09-13 22:45:05,813 INFO Thread-27 restartServer.TwonkyMediaServer - 
+
+2010-09-13 22:45:05,997 INFO Thread-27 restartServer.TwonkyMediaServer - invoke twonkymedia.sh start
+2010-09-13 22:45:06,151 INFO Thread-27 restartServer.TwonkyMediaServer - TwonkyMedia cache have been cleaned.
+
+2010-09-13 22:45:06,306 ERROR Thread-27 restartServer.TwonkyMediaServer - readlink: /var/twonkymedia
+2010-09-13 22:45:06,309 ERROR Thread-27 restartServer.TwonkyMediaServer - : No such file or directory
+
+2010-09-13 22:45:06,323 INFO Thread-27 restartServer.TwonkyMediaServer - Starting UPnP MediaServer: (/mnt/HDA_ROOT/twonkymedia/twonkymedia) 
+2010-09-13 22:45:06,427 INFO Thread-27 restartServer.TwonkyMediaServer - 
+
+2010-09-13 22:45:10,001 INFO Thread-29 restartServer.TwonkyMediaServer - ----- Restarting Twonkymediaserver -----
+2010-09-13 22:45:11,629 INFO Thread-29 restartServer.TwonkyMediaServer - invoke twonkymedia.sh stop
+2010-09-13 22:45:11,779 INFO Thread-29 restartServer.TwonkyMediaServer - Shutting down UPnP MediaServer services: twonkymedia.
+PID file /var/run/twonky.pid not found, stopping server anyway...
+
+2010-09-13 22:45:12,016 INFO Thread-29 restartServer.TwonkyMediaServer - 
+
+2010-09-13 22:45:12,058 INFO Thread-29 restartServer.TwonkyMediaServer - invoke twonkymedia.sh start
+2010-09-13 22:45:12,180 INFO Thread-29 restartServer.TwonkyMediaServer - TwonkyMedia cache have been cleaned.
+
+2010-09-13 22:45:12,332 ERROR Thread-29 restartServer.TwonkyMediaServer - readlink: /var/twonkymedia: No such file or directory
+
+2010-09-13 22:45:12,349 INFO Thread-29 restartServer.TwonkyMediaServer - Starting UPnP MediaServer: (/mnt/HDA_ROOT/twonkymedia/twonkymedia) 
+2010-09-13 22:45:12,400 INFO Thread-29 restartServer.TwonkyMediaServer - 
+
+2010-09-13 22:45:27,718 INFO Thread-31 restartServer.TwonkyMediaServer - ----- Restarting Twonkymediaserver -----
+2010-09-13 22:45:29,438 INFO Thread-31 restartServer.TwonkyMediaServer - invoke twonkymedia.sh stop
+2010-09-13 22:45:29,571 INFO Thread-31 restartServer.TwonkyMediaServer - Shutting down UPnP MediaServer services: twonkymedia.
+PID file /var/run/twonky.pid not found, stopping server anyway...
+
+2010-09-13 22:45:29,777 INFO Thread-31 restartServer.TwonkyMediaServer - 
+
+2010-09-13 22:45:29,818 INFO Thread-31 restartServer.TwonkyMediaServer - invoke twonkymedia.sh start
+2010-09-13 22:45:29,970 INFO Thread-31 restartServer.TwonkyMediaServer - TwonkyMedia cache have been cleaned.
+
+2010-09-13 22:45:30,075 ERROR Thread-31 restartServer.TwonkyMediaServer - readlink: /var/twonkymedia
+2010-09-13 22:45:30,080 ERROR Thread-31 restartServer.TwonkyMediaServer - : No such file or directory
+
+2010-09-13 22:45:30,122 INFO Thread-31 restartServer.TwonkyMediaServer - Starting UPnP MediaServer: (/mnt/HDA_ROOT/twonkymedia/twonkymedia) 
+2010-09-13 22:45:30,205 INFO Thread-31 restartServer.TwonkyMediaServer - 
+
+2010-09-13 22:45:34,616 INFO Thread-33 restartServer.TwonkyMediaServer - ----- Restarting Twonkymediaserver -----
+2010-09-13 22:45:36,326 INFO Thread-33 restartServer.TwonkyMediaServer - invoke twonkymedia.sh stop
+2010-09-13 22:45:36,448 INFO Thread-33 restartServer.TwonkyMediaServer - Shutting down UPnP MediaServer services: twonkymedia.
+
+2010-09-13 22:45:36,451 INFO Thread-33 restartServer.TwonkyMediaServer - PID file /var/run/twonky.pid not found, stopping server anyway...
+
+2010-09-13 22:45:36,659 INFO Thread-33 restartServer.TwonkyMediaServer - 
+
+2010-09-13 22:45:36,698 INFO Thread-33 restartServer.TwonkyMediaServer - invoke twonkymedia.sh start
+2010-09-13 22:45:36,819 INFO Thread-33 restartServer.TwonkyMediaServer - TwonkyMedia cache have been cleaned.
+
+2010-09-13 22:45:36,923 ERROR Thread-33 restartServer.TwonkyMediaServer - readlink: /var/twonkymedia
+2010-09-13 22:45:36,929 INFO Thread-33 restartServer.TwonkyMediaServer - Starting UPnP MediaServer: (/mnt/HDA_ROOT/twonkymedia/twonkymedia) 
+2010-09-13 22:45:36,936 ERROR Thread-33 restartServer.TwonkyMediaServer - : No such file or directory
+
+2010-09-13 22:45:37,026 INFO Thread-33 restartServer.TwonkyMediaServer - 
+
+2010-09-13 22:50:28,718 INFO Thread-35 restartServer.TwonkyMediaServer - ----- Restarting Twonkymediaserver -----
+2010-09-13 22:50:30,062 INFO Thread-35 restartServer.TwonkyMediaServer - invoke twonkymedia.sh stop
+2010-09-13 22:50:30,130 INFO Thread-35 restartServer.TwonkyMediaServer - Shutting down UPnP MediaServer services: twonkymedia.
+PID file /var/run/twonky.pid not found, stopping server anyway...
+
+2010-09-13 22:50:30,196 INFO Thread-35 restartServer.TwonkyMediaServer - 
+
+2010-09-13 22:50:30,359 INFO Thread-35 restartServer.TwonkyMediaServer - invoke twonkymedia.sh start
+2010-09-13 22:50:30,441 INFO Thread-35 restartServer.TwonkyMediaServer - TwonkyMedia cache have been cleaned.
+
+2010-09-13 22:50:30,496 ERROR Thread-35 restartServer.TwonkyMediaServer - readlink: /var/twonkymedia
+2010-09-13 22:50:30,499 ERROR Thread-35 restartServer.TwonkyMediaServer - : No such file or directory
+
+2010-09-13 22:50:30,503 INFO Thread-35 restartServer.TwonkyMediaServer - Starting UPnP MediaServer: (/mnt/HDA_ROOT/twonkymedia/twonkymedia) 
+2010-09-13 22:50:30,547 INFO Thread-35 restartServer.TwonkyMediaServer - 
+
+2010-10-26 20:20:40,939 INFO main hollenstein.MovieCopier - ************** FilmCopier started ***************
+2010-10-26 20:20:40,961 INFO main hollenstein.MovieCopier - Properties successfully read from: .\conf\moviecopier.ini
+2010-10-26 20:20:42,635 INFO main hollenstein.DirectoryWatcher - WatchService started
+2010-10-26 20:21:47,271 INFO main restartServer.TwonkyMediaServer - ----- Restarting Twonkymediaserver -----
+2010-10-26 20:21:49,917 INFO main restartServer.TwonkyMediaServer - invoke twonkymedia.sh stop
+2010-10-26 20:21:49,991 DEBUG main restartServer.TwonkyMediaServer - conditions: 4
+2010-10-26 20:21:49,991 INFO main restartServer.TwonkyMediaServer - Shutting down UPnP MediaServer services: twonkymedia.
+PID file /var/run/twonky.pid not found, stopping server anyway...
+
+2010-10-26 20:21:50,046 DEBUG main restartServer.TwonkyMediaServer - conditions: 4
+2010-10-26 20:21:50,046 INFO main restartServer.TwonkyMediaServer - 
+
+2010-10-26 20:21:50,051 DEBUG main restartServer.TwonkyMediaServer - conditions: 50
+2010-10-26 20:21:50,086 INFO main restartServer.TwonkyMediaServer - invoke twonkymedia.sh start
+2010-10-26 20:21:50,237 DEBUG main restartServer.TwonkyMediaServer - conditions: 4
+2010-10-26 20:21:50,238 INFO main restartServer.TwonkyMediaServer - TwonkyMedia cache have been cleaned.
+
+2010-10-26 20:21:50,242 ERROR main restartServer.TwonkyMediaServer - readlink: /var/twonkymedia: No such f
+2010-10-26 20:21:50,246 ERROR main restartServer.TwonkyMediaServer - ile or directory
+
+2010-10-26 20:21:50,249 INFO main restartServer.TwonkyMediaServer - Starting UPnP Med
+2010-10-26 20:21:50,255 INFO main restartServer.TwonkyMediaServer - iaServer: (/mnt/H
+2010-10-26 20:21:50,259 INFO main restartServer.TwonkyMediaServer - DA_ROOT/twonkymed
+2010-10-26 20:21:50,262 INFO main restartServer.TwonkyMediaServer - ia/twonkymedia) 
+2010-10-26 20:21:50,279 DEBUG main restartServer.TwonkyMediaServer - conditions: 4
+2010-10-26 20:21:50,280 INFO main restartServer.TwonkyMediaServer - 
+
+2010-10-26 20:21:50,282 DEBUG main restartServer.TwonkyMediaServer - conditions: 32
+2011-03-20 13:37:31,840 INFO main hollenstein.MovieCopier - ************** FilmCopier started ***************
+2011-03-20 13:37:31,871 INFO main hollenstein.MovieCopier - Properties successfully read from: .\conf\moviecopier.ini
+2011-03-20 13:37:33,089 INFO main hollenstein.DirectoryWatcher - WatchService started
+2011-03-20 13:39:14,329 INFO main hollenstein.MovieCopier - ************** FilmCopier started ***************
+2011-03-20 13:39:14,333 INFO main hollenstein.MovieCopier - Properties successfully read from: .\conf\moviecopier.ini
+2011-03-20 13:39:15,155 INFO main hollenstein.DirectoryWatcher - WatchService started
+2014-10-22 21:35:26,697 INFO main hollenstein.MovieCopier - ************** FilmCopier started ***************
+2014-10-22 21:35:26,712 INFO main hollenstein.MovieCopier - Properties successfully read from: .\conf\moviecopier.ini
+2014-10-22 21:35:27,040 INFO main hollenstein.DirectoryWatcher - WatchService started
+2019-01-12 14:17:25,211 INFO main hollenstein.MovieCopier - ************** FilmCopier started ***************
+2019-01-12 14:17:25,245 INFO main hollenstein.MovieCopier - Properties successfully read from: .\conf\moviecopier.ini
+2019-01-12 14:17:26,044 INFO main hollenstein.DirectoryWatcher - WatchService started
